@@ -13,12 +13,12 @@
 
 ## 👋 About Me
 
-I'm a **Senior iOS Developer** with 10+ years of experience crafting scalable, production-grade iOS applications. These days, I'm deep in the intersection of **Swift** and **AI** — building intelligent systems, SDK infrastructure, and exploring what LLMs can do natively on Apple platforms.
+I'm a **Senior iOS Developer** with 11+ years of experience crafting scalable, production-grade iOS applications. These days, I'm deep in the intersection of **Swift** and **AI** — building intelligent systems, SDK infrastructure, and exploring what LLMs can do natively on Apple platforms.
 
 - 🔭 Currently building **AIChatSupport** — a plug-and-play SwiftUI AI Chat SDK (OpenAI + Anthropic streaming, zero dependencies)
 - 🤖 Exploring AI agents, on-device ML, and LLM integrations for Apple platform engineers
 - ✍️ Publishing bi-weekly iOS × AI technical articles via an automated pipeline
-- 🌱 Always learning — currently deep in `@Observable`, Swift Concurrency, and SSE streaming
+- 🌱 Always learning — currently deep in AI, SwiftUI, Swift Concurrency, and SSE streaming
 
 ---
 
