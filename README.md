@@ -14,11 +14,13 @@
 
 </div>
 
----
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
+-----
 
 ### 👾 About Me
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
+</div>
 
 ```swift
 struct SaurabhDave {
@@ -36,17 +38,15 @@ struct SaurabhDave {
 }
 ```
 
-<br clear="right"/>
-
----
+-----
 
 ### 🔥 Currently Building
 
 > **`AIChatSupport`** — A plug-and-play SwiftUI AI Chat SDK
->
-> Zero dependencies &nbsp;·&nbsp; OpenAI + Anthropic streaming &nbsp;·&nbsp; Full theming &nbsp;·&nbsp; iOS 16+ &nbsp;·&nbsp; Swift 5.9+
+> 
+> Zero dependencies  ·  OpenAI + Anthropic streaming  ·  Full theming  ·  iOS 16+  ·  Swift 5.9+
 
----
+-----
 
 ### 🛠️ Tech Stack
 
@@ -75,22 +75,22 @@ struct SaurabhDave {
 
 </div>
 
----
+-----
 
 ### 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Stack | Stars |
-|--------|-------------|-------|-------|
-| [🪷 KrishnaGPT](https://github.com/saurabhdave/KrishnaGPT) | iOS AI app with spiritual guidance inspired by the Bhagavad Gita | `Swift` `OpenAI` `SwiftUI` | [![Stars](https://img.shields.io/github/stars/saurabhdave/KrishnaGPT?style=flat-square&color=F05138)](https://github.com/saurabhdave/KrishnaGPT) |
-| [📦 SDOpenAIClientKit](https://github.com/saurabhdave/SDOpenAIClientKit) | Lightweight Swift package — OpenAI streaming, multi-turn memory, retry | `Swift` `SPM` `SSE` | [![Stars](https://img.shields.io/github/stars/saurabhdave/SDOpenAIClientKit?style=flat-square&color=F05138)](https://github.com/saurabhdave/SDOpenAIClientKit) |
-| [🤖 AI Agents](https://github.com/saurabhdave/aiagents) | AI-driven skills for accessibility, performance & architecture on Apple platforms | `AI` `Swift` | [![Stars](https://img.shields.io/github/stars/saurabhdave/aiagents?style=flat-square&color=F05138)](https://github.com/saurabhdave/aiagents) |
-| [📰 iOS AI Articles](https://saurabhdave.github.io/ios-ai-articles/) | Auto-generated technical articles for senior iOS engineers, 2×/week | `GitHub Actions` `AI` | [![Stars](https://img.shields.io/github/stars/saurabhdave/ios-ai-articles?style=flat-square&color=F05138)](https://github.com/saurabhdave/ios-ai-articles) |
+|Project                                                                |Description                                                                      |Stack                     |Stars                                                                                                                                                         |
+|-----------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[🪷 KrishnaGPT](https://github.com/saurabhdave/KrishnaGPT)              |iOS AI app with spiritual guidance inspired by the Bhagavad Gita                 |`Swift` `OpenAI` `SwiftUI`|[![Stars](https://img.shields.io/github/stars/saurabhdave/KrishnaGPT?style=flat-square&color=F05138)](https://github.com/saurabhdave/KrishnaGPT)              |
+|[📦 SDOpenAIClientKit](https://github.com/saurabhdave/SDOpenAIClientKit)|Lightweight Swift package — OpenAI streaming, multi-turn memory, retry           |`Swift` `SPM` `SSE`       |[![Stars](https://img.shields.io/github/stars/saurabhdave/SDOpenAIClientKit?style=flat-square&color=F05138)](https://github.com/saurabhdave/SDOpenAIClientKit)|
+|[🤖 AI Agents](https://github.com/saurabhdave/aiagents)                 |AI-driven skills for accessibility, performance & architecture on Apple platforms|`AI` `Swift`              |[![Stars](https://img.shields.io/github/stars/saurabhdave/aiagents?style=flat-square&color=F05138)](https://github.com/saurabhdave/aiagents)                  |
+|[📰 iOS AI Articles](https://saurabhdave.github.io/ios-ai-articles/)    |Auto-generated technical articles for senior iOS engineers, 2×/week              |`GitHub Actions` `AI`     |[![Stars](https://img.shields.io/github/stars/saurabhdave/ios-ai-articles?style=flat-square&color=F05138)](https://github.com/saurabhdave/ios-ai-articles)    |
 
 </div>
 
----
+-----
 
 ### 📊 GitHub Stats
 
@@ -107,32 +107,32 @@ struct SaurabhDave {
 
 </div>
 
----
+-----
 
 ### 📈 Contribution Activity
 
 <div align="center">
 
-[![Saurabh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabhdave&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saurabh’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabhdave&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+-----
 
 ### 🐍 Contribution Snake
 
-<div align="center">
 
-![snake dark](https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake-dark.svg)
 
-</div>
 
----
+</details>
+
+-----
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
-*📍 USA &nbsp;·&nbsp; Crafting at the edge of Swift & AI &nbsp;·&nbsp; Open to collaborations*
+*📍 USA  ·  Crafting at the edge of Swift & AI  ·  Open to collaborations*
 
 </div>
