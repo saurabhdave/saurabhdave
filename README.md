@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Header banner using readme-typing-svg + shields — no external image dependency -->
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp;Hi, I'm Saurabh Dave
-</h1>
+<h1>👋 Hi, I'm Saurabh Dave</h1>
 
 <h3>Senior iOS Engineer &nbsp;·&nbsp; Swift &amp; AI Systems &nbsp;·&nbsp; 11+ Years</h3>
 
@@ -19,7 +16,7 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
 ### 👾 About Me
 
@@ -47,7 +44,7 @@ struct SaurabhDave {
 
 > **`AIChatSupport`** — A plug-and-play SwiftUI AI Chat SDK
 >
-> Zero dependencies · OpenAI + Anthropic streaming · Full theming · iOS 16+ · Swift 5.9+
+> Zero dependencies &nbsp;·&nbsp; OpenAI + Anthropic streaming &nbsp;·&nbsp; Full theming &nbsp;·&nbsp; iOS 16+ &nbsp;·&nbsp; Swift 5.9+
 
 ---
 
@@ -124,22 +121,48 @@ struct SaurabhDave {
 
 ### 🐍 Contribution Snake
 
-<div align="center">
+> ⚡ **One-time setup:** Add `.github/workflows/snake.yml` to this repo and run it once — then the snake appears here automatically every day.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake.svg"/>
-</picture>
+<details>
+<summary>Click to see the workflow file</summary>
 
-</div>
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: saurabhdave
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After running it once, replace this section with:
+```
+![snake](https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake-dark.svg)
+```
+
+</details>
 
 ---
 
 <div align="center">
 
-*📍 USA &nbsp;·&nbsp; Crafting at the edge of Swift & AI &nbsp;·&nbsp; Open to collaborations*
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
-![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Down.svg)
+*📍 USA &nbsp;·&nbsp; Crafting at the edge of Swift & AI &nbsp;·&nbsp; Open to collaborations*
 
 </div>
