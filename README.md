@@ -121,41 +121,11 @@ struct SaurabhDave {
 
 ### 🐍 Contribution Snake
 
-> ⚡ **One-time setup:** Add `.github/workflows/snake.yml` to this repo and run it once — then the snake appears here automatically every day.
+<div align="center">
 
-<details>
-<summary>Click to see the workflow file</summary>
+![snake dark](https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake-dark.svg)
 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: saurabhdave
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After running it once, replace this section with:
-```
-![snake](https://raw.githubusercontent.com/saurabhdave/saurabhdave/output/github-snake-dark.svg)
-```
-
-</details>
+</div>
 
 ---
 
