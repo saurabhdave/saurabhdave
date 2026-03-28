@@ -115,24 +115,7 @@ struct SaurabhDave {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabhdave&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhdave&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=saurabhdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
------
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhdave&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
