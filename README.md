@@ -115,7 +115,7 @@ struct SaurabhDave {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabhdave&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabhdave&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhdave&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
@@ -132,7 +132,7 @@ struct SaurabhDave {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhdave&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhdave&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
