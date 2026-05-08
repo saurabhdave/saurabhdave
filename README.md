@@ -47,7 +47,7 @@ struct SaurabhDave {
 
 | Project | What it does |
 |---------|-------------|
-| **`AIChatSupport SDK`** | Plug-and-play SwiftUI AI Chat · Zero dependencies · OpenAI + Anthropic streaming · Full theming · iOS 16+ |
+| **`AIChatSupport SDK`** | Plug-and-play SwiftUI AI Chat · Zero dependencies · OpenAI + Anthropic streaming · Full theming · Swift 6 · iOS 26+ |
 | **`AIAnalyticsKit`** | On-device user behavior analytics & AI personalization for iOS/macOS · Powered by Apple's Foundation Models · No server · No data egress |
 
 -----
