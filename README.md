@@ -30,10 +30,11 @@ struct SaurabhDave {
 
     let currentlyBuilding = [
         "AIChatSupport SDK",  // plug-and-play SwiftUI AI Chat — OpenAI + Anthropic streaming
-        "AIAnalyticsKit"      // on-device analytics & personalization via Foundation Models
+        "AIAnalyticsKit",     // on-device analytics & personalization via Foundation Models
+        "ios-dev-ai-writer"   // AI agent auto-generating iOS × AI articles & LinkedIn posts
     ]
     let exploring = ["Apple Foundation Models", "On-device ML", "Agentic iOS Apps"]
-    let writing   = "iOS × AI articles — 2x/week"
+    let writing   = "iOS × AI articles — 2×/week"
 
     func philosophy() -> String {
         "Ship clean Swift. Embrace AI. Keep learning."
@@ -49,7 +50,7 @@ struct SaurabhDave {
 |---------|-------------|
 | [**`AIChatSupport SDK`**](https://github.com/saurabhdave/AIChatSupport-SDK) | Plug-and-play SwiftUI AI Chat · Zero dependencies · OpenAI + Anthropic streaming · Full theming · Swift 6 · iOS 26+ |
 | [**`AIAnalyticsKit`**](https://github.com/saurabhdave/AIAnalyticsKit) | On-device user behavior analytics & AI personalization for iOS/macOS · Powered by Apple's Foundation Models · No server · No data egress |
-| [**`ios-dev-ai-writer`**](https://github.com/saurabhdave/ios-dev-ai-writer) | AI agent that auto-generates weekly iOS × AI articles & LinkedIn posts from real trend signals · Fully automated pipeline |
+| [**`ios-dev-ai-writer`**](https://github.com/saurabhdave/ios-dev-ai-writer) | AI agent that auto-generates iOS × AI articles & LinkedIn posts 2×/week from real trend signals · Fully automated pipeline |
 
 -----
 
@@ -118,7 +119,13 @@ struct SaurabhDave {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saurabhdave&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub followers](https://img.shields.io/github/followers/saurabhdave?style=for-the-badge&logo=github&logoColor=white&color=F05138&label=FOLLOWERS)](https://github.com/saurabhdave?tab=followers)
+&nbsp;
+[![iOS Experience](https://img.shields.io/badge/iOS%20Experience-11%2B%20years-F05138?style=for-the-badge&logo=swift&logoColor=white)](#)
+&nbsp;
+[![Focus](https://img.shields.io/badge/Focus-Swift%20%C3%97%20AI-CC785C?style=for-the-badge&logo=apple&logoColor=white)](#)
+&nbsp;
+[![Writing](https://img.shields.io/badge/Writing-2%C3%97%2Fweek-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://saurabhdave.github.io/ios-ai-articles/)
 
 </div>
 
