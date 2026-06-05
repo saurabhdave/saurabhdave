@@ -47,8 +47,9 @@ struct SaurabhDave {
 
 | Project | What it does |
 |---------|-------------|
-| **`AIChatSupport SDK`** | Plug-and-play SwiftUI AI Chat · Zero dependencies · OpenAI + Anthropic streaming · Full theming · Swift 6 · iOS 26+ |
-| **`AIAnalyticsKit`** | On-device user behavior analytics & AI personalization for iOS/macOS · Powered by Apple's Foundation Models · No server · No data egress |
+| [**`AIChatSupport SDK`**](https://github.com/saurabhdave/AIChatSupport-SDK) | Plug-and-play SwiftUI AI Chat · Zero dependencies · OpenAI + Anthropic streaming · Full theming · Swift 6 · iOS 26+ |
+| [**`AIAnalyticsKit`**](https://github.com/saurabhdave/AIAnalyticsKit) | On-device user behavior analytics & AI personalization for iOS/macOS · Powered by Apple's Foundation Models · No server · No data egress |
+| [**`ios-dev-ai-writer`**](https://github.com/saurabhdave/ios-dev-ai-writer) | AI agent that auto-generates weekly iOS × AI articles & LinkedIn posts from real trend signals · Fully automated pipeline |
 
 -----
 
@@ -96,7 +97,9 @@ struct SaurabhDave {
 | [🪷 KrishnaGPT](https://github.com/saurabhdave/KrishnaGPT) | iOS AI app with spiritual guidance inspired by the Bhagavad Gita | `Swift` `OpenAI` `SwiftUI` | [![Stars](https://img.shields.io/github/stars/saurabhdave/KrishnaGPT?style=flat-square&color=F05138)](https://github.com/saurabhdave/KrishnaGPT) |
 | [🧠 AIAnalyticsKit](https://github.com/saurabhdave/AIAnalyticsKit) | On-device analytics & AI personalization — Apple Foundation Models, no server, no data egress | `Swift` `SPM` `Foundation Models` | [![Stars](https://img.shields.io/github/stars/saurabhdave/AIAnalyticsKit?style=flat-square&color=F05138)](https://github.com/saurabhdave/AIAnalyticsKit) |
 | [📦 SDOpenAIClientKit](https://github.com/saurabhdave/SDOpenAIClientKit) | Lightweight Swift package — OpenAI streaming, multi-turn memory, retry | `Swift` `SPM` `SSE` | [![Stars](https://img.shields.io/github/stars/saurabhdave/SDOpenAIClientKit?style=flat-square&color=F05138)](https://github.com/saurabhdave/SDOpenAIClientKit) |
+| [💬 AIChatSupport SDK](https://github.com/saurabhdave/AIChatSupport-SDK) | Plug-and-play SwiftUI AI chat support — OpenAI, Anthropic, custom & mock providers · Zero deps · iOS 26+ | `Swift` `SwiftUI` `SPM` | [![Stars](https://img.shields.io/github/stars/saurabhdave/AIChatSupport-SDK?style=flat-square&color=F05138)](https://github.com/saurabhdave/AIChatSupport-SDK) |
 | [🤖 AI Agents](https://github.com/saurabhdave/aiagents) | AI-driven skills for accessibility, performance & architecture on Apple platforms | `TypeScript` `AI` `Swift` | [![Stars](https://img.shields.io/github/stars/saurabhdave/aiagents?style=flat-square&color=F05138)](https://github.com/saurabhdave/aiagents) |
+| [✍️ ios-dev-ai-writer](https://github.com/saurabhdave/ios-dev-ai-writer) | AI agent that auto-generates iOS × AI articles & LinkedIn posts from real trend signals | `Python` `GitHub Actions` `AI` | [![Stars](https://img.shields.io/github/stars/saurabhdave/ios-dev-ai-writer?style=flat-square&color=F05138)](https://github.com/saurabhdave/ios-dev-ai-writer) |
 | [📰 iOS AI Articles](https://saurabhdave.github.io/ios-ai-articles/) | Auto-generated technical articles for senior iOS engineers, 2×/week | `Python` `GitHub Actions` `AI` | [![Stars](https://img.shields.io/github/stars/saurabhdave/ios-ai-articles?style=flat-square&color=F05138)](https://github.com/saurabhdave/ios-ai-articles) |
 
 </div>
